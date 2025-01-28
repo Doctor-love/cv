@@ -116,7 +116,22 @@ Joel is a sociable nerd with experience in IT security, DevOps and teaching.
 **Degree in system and network administration**: _2009 ‑ 2012_
 
 ## Skills
-- **Certifications**: Certified Kubernetes Administrator (CKA)
-- **Programming**: Python, Lua, Bash and Go
-- **Languages**: Fluent in English and Swedish
-- **Miscellaneous**: Swedish/EU citizen and historically approved for security clearance
+
+### Certifications
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Security Specialist (CKS)
+- Certified Kubernetes Application Developer (CKAD)
+
+### Programming
+- Python
+- Lua
+- Bash
+- Go
+
+### Languages
+- English: Fluent
+- Swedish: Fluent
+
+## Miscellaneous
+- Swedish/EU citizen
+- Historically approved for Swedish security clearance
