@@ -13,12 +13,13 @@ Joel is a sociable nerd with experience in IT security, DevOps and teaching.
 ### Menacit AB - Stockholm, Sweden
 **Founder/IT consultant**: _September 2022 - Present_:
 - Develop and lead courses about DevOps/IT security.
-- Security software and system development.
+- Implement and maintain security-related software/systems.
+- Open source development: [https://github.com/menacit](https://github.com/menacit) .
 
 ### Elastx AB - Stockholm, Sweden
 **Cloud operations engineer**: _September 2021 ‑ July 2022_:
 - Maintained and developed the company’s public cloud offerings.
-- Investigated and fixed problems in customer Kubernetes clusters and OpenStack environments.
+- Investigated and fixed problems in customers' Kubernetes clusters and OpenStack environments.
 - Developed and maintained the company's centralized identity service.
 
 ### Sentor MSS AB - Stockholm, Sweden
@@ -94,7 +95,7 @@ Joel is a sociable nerd with experience in IT security, DevOps and teaching.
 
 ### SEC‑T 0x0Beyond
 **Speaker**: _September 2018_:
-- Introduced the lacking availability of tools for client‑side web exploitation
+- Introduced the lacking availability of tools for client‑side web exploitation.
 - Talked about the motivation for building a exploitation framework.
 - Demonstrated the ”kkross” utility and packaging format.
 - The talk is available on YouTube: [https://youtu.be/0TbmZ3M0lZY](https://youtu.be/0TbmZ3M0lZY) .
